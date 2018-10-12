@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 6a3a10267a8997540bea1194a73e17e3
+timeCreated: 1472572978
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone002
+    100004: Bone003
+    100006: Bone004
+    100008: LEyeBone01
+    100010: LEyeNub01
+    100012: Plane001
+    100014: REyeBone01
+    100016: REyeNub01
+    100018: //RootNode
+    100020: Walter
+    100022: walter_newLeftEye
+    100024: walter_newRightEye
+    100026: WalterBip001
+    100028: WalterBip001 Head
+    100030: WalterBip001 HeadNub
+    100032: WalterBip001 L Calf
+    100034: WalterBip001 L Clavicle
+    100036: WalterBip001 L Finger0
+    100038: WalterBip001 L Finger01
+    100040: WalterBip001 L Finger02
+    100042: WalterBip001 L Finger0Nub
+    100044: WalterBip001 L Finger1
+    100046: WalterBip001 L Finger11
+    100048: WalterBip001 L Finger12
+    100050: WalterBip001 L Finger1Nub
+    100052: WalterBip001 L Finger2
+    100054: WalterBip001 L Finger21
+    100056: WalterBip001 L Finger22
+    100058: WalterBip001 L Finger2Nub
+    100060: WalterBip001 L Finger3
+    100062: WalterBip001 L Finger31
+    100064: WalterBip001 L Finger32
+    100066: WalterBip001 L Finger3Nub
+    100068: WalterBip001 L Finger4
+    100070: WalterBip001 L Finger41
+    100072: WalterBip001 L Finger42
+    100074: WalterBip001 L Finger4Nub
+    100076: WalterBip001 L Foot
+    100078: WalterBip001 L Forearm
+    100080: WalterBip001 L Hand
+    100082: WalterBip001 L Thigh
+    100084: WalterBip001 L Toe0
+    100086: WalterBip001 L Toe01
+    100088: WalterBip001 L Toe02
+    100090: WalterBip001 L Toe0Nub
+    100092: WalterBip001 L UpperArm
+    100094: WalterBip001 Neck
+    100096: WalterBip001 Pelvis
+    100098: WalterBip001 R Calf
+    100100: WalterBip001 R Clavicle
+    100102: WalterBip001 R Finger0
+    100104: WalterBip001 R Finger01
+    100106: WalterBip001 R Finger02
+    100108: WalterBip001 R Finger0Nub
+    100110: WalterBip001 R Finger1
+    100112: WalterBip001 R Finger11
+    100114: WalterBip001 R Finger12
+    100116: WalterBip001 R Finger1Nub
+    100118: WalterBip001 R Finger2
+    100120: WalterBip001 R Finger21
+    100122: WalterBip001 R Finger22
+    100124: WalterBip001 R Finger2Nub
+    100126: WalterBip001 R Finger3
+    100128: WalterBip001 R Finger31
+    100130: WalterBip001 R Finger32
+    100132: WalterBip001 R Finger3Nub
+    100134: WalterBip001 R Finger4
+    100136: WalterBip001 R Finger41
+    100138: WalterBip001 R Finger42
+    100140: WalterBip001 R Finger4Nub
+    100142: WalterBip001 R Foot
+    100144: WalterBip001 R Forearm
+    100146: WalterBip001 R Hand
+    100148: WalterBip001 R Thigh
+    100150: WalterBip001 R Toe0
+    100152: WalterBip001 R Toe01
+    100154: WalterBip001 R Toe02
+    100156: WalterBip001 R Toe0Nub
+    100158: WalterBip001 R UpperArm
+    100160: WalterBip001 Spine
+    100162: WalterBip001 Spine1
+    100164: WalterBip001 Spine2
+    400000: Bone001
+    400002: Bone002
+    400004: Bone003
+    400006: Bone004
+    400008: LEyeBone01
+    400010: LEyeNub01
+    400012: Plane001
+    400014: REyeBone01
+    400016: REyeNub01
+    400018: //RootNode
+    400020: Walter
+    400022: walter_newLeftEye
+    400024: walter_newRightEye
+    400026: WalterBip001
+    400028: WalterBip001 Head
+    400030: WalterBip001 HeadNub
+    400032: WalterBip001 L Calf
+    400034: WalterBip001 L Clavicle
+    400036: WalterBip001 L Finger0
+    400038: WalterBip001 L Finger01
+    400040: WalterBip001 L Finger02
+    400042: WalterBip001 L Finger0Nub
+    400044: WalterBip001 L Finger1
+    400046: WalterBip001 L Finger11
+    400048: WalterBip001 L Finger12
+    400050: WalterBip001 L Finger1Nub
+    400052: WalterBip001 L Finger2
+    400054: WalterBip001 L Finger21
+    400056: WalterBip001 L Finger22
+    400058: WalterBip001 L Finger2Nub
+    400060: WalterBip001 L Finger3
+    400062: WalterBip001 L Finger31
+    400064: WalterBip001 L Finger32
+    400066: WalterBip001 L Finger3Nub
+    400068: WalterBip001 L Finger4
+    400070: WalterBip001 L Finger41
+    400072: WalterBip001 L Finger42
+    400074: WalterBip001 L Finger4Nub
+    400076: WalterBip001 L Foot
+    400078: WalterBip001 L Forearm
+    400080: WalterBip001 L Hand
+    400082: WalterBip001 L Thigh
+    400084: WalterBip001 L Toe0
+    400086: WalterBip001 L Toe01
+    400088: WalterBip001 L Toe02
+    400090: WalterBip001 L Toe0Nub
+    400092: WalterBip001 L UpperArm
+    400094: WalterBip001 Neck
+    400096: WalterBip001 Pelvis
+    400098: WalterBip001 R Calf
+    400100: WalterBip001 R Clavicle
+    400102: WalterBip001 R Finger0
+    400104: WalterBip001 R Finger01
+    400106: WalterBip001 R Finger02
+    400108: WalterBip001 R Finger0Nub
+    400110: WalterBip001 R Finger1
+    400112: WalterBip001 R Finger11
+    400114: WalterBip001 R Finger12
+    400116: WalterBip001 R Finger1Nub
+    400118: WalterBip001 R Finger2
+    400120: WalterBip001 R Finger21
+    400122: WalterBip001 R Finger22
+    400124: WalterBip001 R Finger2Nub
+    400126: WalterBip001 R Finger3
+    400128: WalterBip001 R Finger31
+    400130: WalterBip001 R Finger32
+    400132: WalterBip001 R Finger3Nub
+    400134: WalterBip001 R Finger4
+    400136: WalterBip001 R Finger41
+    400138: WalterBip001 R Finger42
+    400140: WalterBip001 R Finger4Nub
+    400142: WalterBip001 R Foot
+    400144: WalterBip001 R Forearm
+    400146: WalterBip001 R Hand
+    400148: WalterBip001 R Thigh
+    400150: WalterBip001 R Toe0
+    400152: WalterBip001 R Toe01
+    400154: WalterBip001 R Toe02
+    400156: WalterBip001 R Toe0Nub
+    400158: WalterBip001 R UpperArm
+    400160: WalterBip001 Spine
+    400162: WalterBip001 Spine1
+    400164: WalterBip001 Spine2
+    4300000: walter_newRightEye
+    4300002: walter_newLeftEye
+    4300004: Walter
+    4300006: Plane001
+    7400000: Take 001
+    7400002: Take 0010
+    9500000: //RootNode
+    13700000: Plane001
+    13700002: Walter
+    13700004: walter_newLeftEye
+    13700006: walter_newRightEye
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Plane001
+        weight: 1
+      - path: Walter
+        weight: 1
+      - path: walter_newLeftEye
+        weight: 1
+      - path: walter_newRightEye
+        weight: 1
+      - path: WalterBip001
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 L Thigh
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 L Thigh/WalterBip001
+          L Calf
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 L Thigh/WalterBip001
+          L Calf/WalterBip001 L Foot
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 L Thigh/WalterBip001
+          L Calf/WalterBip001 L Foot/WalterBip001 L Toe0
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 L Thigh/WalterBip001
+          L Calf/WalterBip001 L Foot/WalterBip001 L Toe0/WalterBip001 L Toe01
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 L Thigh/WalterBip001
+          L Calf/WalterBip001 L Foot/WalterBip001 L Toe0/WalterBip001 L Toe01/WalterBip001
+          L Toe02
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 L Thigh/WalterBip001
+          L Calf/WalterBip001 L Foot/WalterBip001 L Toe0/WalterBip001 L Toe01/WalterBip001
+          L Toe02/WalterBip001 L Toe0Nub
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 R Thigh
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 R Thigh/WalterBip001
+          R Calf
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 R Thigh/WalterBip001
+          R Calf/WalterBip001 R Foot
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 R Thigh/WalterBip001
+          R Calf/WalterBip001 R Foot/WalterBip001 R Toe0
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 R Thigh/WalterBip001
+          R Calf/WalterBip001 R Foot/WalterBip001 R Toe0/WalterBip001 R Toe01
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 R Thigh/WalterBip001
+          R Calf/WalterBip001 R Foot/WalterBip001 R Toe0/WalterBip001 R Toe01/WalterBip001
+          R Toe02
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 R Thigh/WalterBip001
+          R Calf/WalterBip001 R Foot/WalterBip001 R Toe0/WalterBip001 R Toe01/WalterBip001
+          R Toe02/WalterBip001 R Toe0Nub
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/Bone001
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/Bone001/Bone002
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/Bone001/Bone002/Bone003
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 Head
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 Head/LEyeBone01
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 Head/LEyeBone01/LEyeNub01
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 Head/REyeBone01
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 Head/REyeBone01/REyeNub01
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 Head/WalterBip001 HeadNub
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger0
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger0/WalterBip001 L Finger01
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger0/WalterBip001 L Finger01/WalterBip001
+          L Finger02
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger0/WalterBip001 L Finger01/WalterBip001
+          L Finger02/WalterBip001 L Finger0Nub
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger1
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger1/WalterBip001 L Finger11
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger1/WalterBip001 L Finger11/WalterBip001
+          L Finger12
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger1/WalterBip001 L Finger11/WalterBip001
+          L Finger12/WalterBip001 L Finger1Nub
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger2
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger2/WalterBip001 L Finger21
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger2/WalterBip001 L Finger21/WalterBip001
+          L Finger22
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger2/WalterBip001 L Finger21/WalterBip001
+          L Finger22/WalterBip001 L Finger2Nub
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger3
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger3/WalterBip001 L Finger31
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger3/WalterBip001 L Finger31/WalterBip001
+          L Finger32
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger3/WalterBip001 L Finger31/WalterBip001
+          L Finger32/WalterBip001 L Finger3Nub
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger4
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger4/WalterBip001 L Finger41
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger4/WalterBip001 L Finger41/WalterBip001
+          L Finger42
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger4/WalterBip001 L Finger41/WalterBip001
+          L Finger42/WalterBip001 L Finger4Nub
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger0
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger0/WalterBip001 R Finger01
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger0/WalterBip001 R Finger01/WalterBip001
+          R Finger02
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger0/WalterBip001 R Finger01/WalterBip001
+          R Finger02/WalterBip001 R Finger0Nub
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger1
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger1/WalterBip001 R Finger11
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger1/WalterBip001 R Finger11/WalterBip001
+          R Finger12
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger1/WalterBip001 R Finger11/WalterBip001
+          R Finger12/WalterBip001 R Finger1Nub
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger2
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger2/WalterBip001 R Finger21
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger2/WalterBip001 R Finger21/WalterBip001
+          R Finger22
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger2/WalterBip001 R Finger21/WalterBip001
+          R Finger22/WalterBip001 R Finger2Nub
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger3
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger3/WalterBip001 R Finger31
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger3/WalterBip001 R Finger31/WalterBip001
+          R Finger32
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger3/WalterBip001 R Finger31/WalterBip001
+          R Finger32/WalterBip001 R Finger3Nub
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger4
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger4/WalterBip001 R Finger41
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger4/WalterBip001 R Finger41/WalterBip001
+          R Finger42
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger4/WalterBip001 R Finger41/WalterBip001
+          R Finger42/WalterBip001 R Finger4Nub
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Take 0010
+      takeName: Take 001
+      firstFrame: 210
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Plane001
+        weight: 1
+      - path: Walter
+        weight: 1
+      - path: walter_newLeftEye
+        weight: 1
+      - path: walter_newRightEye
+        weight: 1
+      - path: WalterBip001
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 L Thigh
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 L Thigh/WalterBip001
+          L Calf
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 L Thigh/WalterBip001
+          L Calf/WalterBip001 L Foot
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 L Thigh/WalterBip001
+          L Calf/WalterBip001 L Foot/WalterBip001 L Toe0
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 L Thigh/WalterBip001
+          L Calf/WalterBip001 L Foot/WalterBip001 L Toe0/WalterBip001 L Toe01
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 L Thigh/WalterBip001
+          L Calf/WalterBip001 L Foot/WalterBip001 L Toe0/WalterBip001 L Toe01/WalterBip001
+          L Toe02
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 L Thigh/WalterBip001
+          L Calf/WalterBip001 L Foot/WalterBip001 L Toe0/WalterBip001 L Toe01/WalterBip001
+          L Toe02/WalterBip001 L Toe0Nub
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 R Thigh
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 R Thigh/WalterBip001
+          R Calf
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 R Thigh/WalterBip001
+          R Calf/WalterBip001 R Foot
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 R Thigh/WalterBip001
+          R Calf/WalterBip001 R Foot/WalterBip001 R Toe0
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 R Thigh/WalterBip001
+          R Calf/WalterBip001 R Foot/WalterBip001 R Toe0/WalterBip001 R Toe01
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 R Thigh/WalterBip001
+          R Calf/WalterBip001 R Foot/WalterBip001 R Toe0/WalterBip001 R Toe01/WalterBip001
+          R Toe02
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 R Thigh/WalterBip001
+          R Calf/WalterBip001 R Foot/WalterBip001 R Toe0/WalterBip001 R Toe01/WalterBip001
+          R Toe02/WalterBip001 R Toe0Nub
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/Bone001
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/Bone001/Bone002
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/Bone001/Bone002/Bone003
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 Head
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 Head/LEyeBone01
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 Head/LEyeBone01/LEyeNub01
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 Head/REyeBone01
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 Head/REyeBone01/REyeNub01
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 Head/WalterBip001 HeadNub
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger0
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger0/WalterBip001 L Finger01
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger0/WalterBip001 L Finger01/WalterBip001
+          L Finger02
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger0/WalterBip001 L Finger01/WalterBip001
+          L Finger02/WalterBip001 L Finger0Nub
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger1
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger1/WalterBip001 L Finger11
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger1/WalterBip001 L Finger11/WalterBip001
+          L Finger12
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger1/WalterBip001 L Finger11/WalterBip001
+          L Finger12/WalterBip001 L Finger1Nub
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger2
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger2/WalterBip001 L Finger21
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger2/WalterBip001 L Finger21/WalterBip001
+          L Finger22
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger2/WalterBip001 L Finger21/WalterBip001
+          L Finger22/WalterBip001 L Finger2Nub
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger3
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger3/WalterBip001 L Finger31
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger3/WalterBip001 L Finger31/WalterBip001
+          L Finger32
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger3/WalterBip001 L Finger31/WalterBip001
+          L Finger32/WalterBip001 L Finger3Nub
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger4
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger4/WalterBip001 L Finger41
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger4/WalterBip001 L Finger41/WalterBip001
+          L Finger42
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 L Clavicle/WalterBip001 L UpperArm/WalterBip001
+          L Forearm/WalterBip001 L Hand/WalterBip001 L Finger4/WalterBip001 L Finger41/WalterBip001
+          L Finger42/WalterBip001 L Finger4Nub
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger0
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger0/WalterBip001 R Finger01
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger0/WalterBip001 R Finger01/WalterBip001
+          R Finger02
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger0/WalterBip001 R Finger01/WalterBip001
+          R Finger02/WalterBip001 R Finger0Nub
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger1
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger1/WalterBip001 R Finger11
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger1/WalterBip001 R Finger11/WalterBip001
+          R Finger12
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger1/WalterBip001 R Finger11/WalterBip001
+          R Finger12/WalterBip001 R Finger1Nub
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger2
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger2/WalterBip001 R Finger21
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger2/WalterBip001 R Finger21/WalterBip001
+          R Finger22
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger2/WalterBip001 R Finger21/WalterBip001
+          R Finger22/WalterBip001 R Finger2Nub
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger3
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger3/WalterBip001 R Finger31
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger3/WalterBip001 R Finger31/WalterBip001
+          R Finger32
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger3/WalterBip001 R Finger31/WalterBip001
+          R Finger32/WalterBip001 R Finger3Nub
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger4
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger4/WalterBip001 R Finger41
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger4/WalterBip001 R Finger41/WalterBip001
+          R Finger42
+        weight: 1
+      - path: WalterBip001/WalterBip001 Pelvis/WalterBip001 Spine/WalterBip001 Spine1/WalterBip001
+          Spine2/WalterBip001 Neck/WalterBip001 R Clavicle/WalterBip001 R UpperArm/WalterBip001
+          R Forearm/WalterBip001 R Hand/WalterBip001 R Finger4/WalterBip001 R Finger41/WalterBip001
+          R Finger42/WalterBip001 R Finger4Nub
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
