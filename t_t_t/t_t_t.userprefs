@@ -1,0 +1,42 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\gameMaster.cs">
+    <Files>
+      <File FileName="Assets\Scripts\gameMaster.cs" Line="155" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Scripts" expanded="True">
+              <Node name="gameMaster.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>this</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Unity\Workspace\t_t_t\Assets\Scripts\gameMaster.cs" line="126" />
+      <Breakpoint file="D:\Unity\Workspace\t_t_t\Assets\Scripts\gameMaster.cs" line="128" />
+      <Breakpoint file="D:\Unity\Workspace\t_t_t\Assets\Scripts\gameMaster.cs" line="130" />
+      <Breakpoint file="D:\Unity\Workspace\t_t_t\Assets\Scripts\gameMaster.cs" line="136" />
+      <Breakpoint file="D:\Unity\Workspace\t_t_t\Assets\Scripts\gameMaster.cs" line="139" />
+      <Breakpoint file="D:\Unity\Workspace\t_t_t\Assets\Scripts\gameMaster.cs" line="144" />
+      <Breakpoint file="D:\Unity\Workspace\t_t_t\Assets\Scripts\gameMaster.cs" line="151" />
+      <Breakpoint file="D:\Unity\Workspace\t_t_t\Assets\Scripts\gameMaster.cs" line="155" />
+      <Breakpoint file="D:\Unity\Workspace\t_t_t\Assets\Scripts\gameMaster.cs" line="132" />
+      <Breakpoint file="D:\Unity\Workspace\t_t_t\Assets\Scripts\gameMaster.cs" line="134" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
