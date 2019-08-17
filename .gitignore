@@ -1,0 +1,6 @@
+
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+number_wizard/.vs/number_wizard/v15/.suo
