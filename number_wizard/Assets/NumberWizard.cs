@@ -6,7 +6,7 @@ public class NumberWizard : MonoBehaviour {
 
     int max;
     int min;
-    int guess;;
+    int guess;
 
     // Use this for initialization
     void Start () {
