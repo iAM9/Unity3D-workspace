@@ -5,7 +5,7 @@ using UnityEngine;
 public class NumberWizard : MonoBehaviour {
 
     int max;
-    int min;
+    int min;;
     int guess;
 
     // Use this for initialization
