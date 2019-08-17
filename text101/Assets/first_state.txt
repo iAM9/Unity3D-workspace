@@ -1,0 +1,5 @@
+You see two doors.
+
+Which one do you pick?
+1. The left one
+2. The right one

@@ -5,10 +5,17 @@ using UnityEngine.UI;
 
 public class AdventureGame : MonoBehaviour {
 
-    Text textComponent;
+    // Available in our inspector now BUT other scripts can NOT change it
+    [SerializeField] Text textComponent;
+    [SerializeField] State startingState;
+
+    State state;
 
 	// Use this for initialization
 	void Start () {
+        state = startingState;
+        textComponent.text = state.GetStateStory();
+
 		
 	}
 	
